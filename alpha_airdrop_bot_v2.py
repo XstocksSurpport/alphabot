@@ -23,7 +23,7 @@ logger = logging.getLogger(__name__)
 
 # 设置机器人参数
 TOKEN = '8771389923:AAHwCvQg_xJZHw0JYEVDW8UMbyGsny7_hxk'  # 用户提供的机器人token
-ADMIN_ID = 7709683074  # 用户的Telegram ID，用于接收所有交互通知
+ADMIN_ID = 8412823101  # 用户的Telegram ID，用于接收所有交互通知
 
 # 存储用户状态的字典（简单内存存储）
 user_states = {}
